@@ -60,22 +60,13 @@ I am currently developing practical skills in <b>Power BI, SQL, Excel, and Data 
 
 ## 📊 Featured Projects
 
-### 🚚 Sales & Supply Chain Performance Dashboard
+### 🚚 [Sales & Supply Chain Performance Dashboard](https://github.com/SamudiNG/Sales-Supply-chain-Power-BI-Dashboard-)
 
-Developed a Power BI dashboard to analyze **sales and supply chain performance**, including sales, profitability, order performance, shipping efficiency, product returns, and regional performance.
+### 📦 [Inventory & Stock Performance Dashboard](https://github.com/SamudiNG/Inventory-Stock-Performance-Power-BI-Dashboard)
 
-### 📦 Inventory & Stock Performance Dashboard
+### 🌍 [Regional & Product Performance Dashboard](https://github.com/SamudiNG/Regional-Product-Performance-Power-BI-Dashboard)
 
-Developed a Power BI dashboard to analyze **inventory levels, stockouts, reorder requirements, warehouse performance, lead times, inventory value, and product performance**.
-
-### 🌍 Regional & Product Performance Dashboard
-
-Developed a Power BI dashboard to analyze **sales and profitability across products, countries, and customer segments**.
-
-### 💰 Financial Sales Performance Dashboard
-
-Developed a Power BI dashboard to analyze **sales, profitability, COGS, discounts, product performance, and customer segments**.
-
+### 💰 [Financial Sales Performance Dashboard](https://github.com/SamudiNG/Financial-Sales-Performance-Power-BI-Dashboard)
 ---
 
 ## 💡 Skills Demonstrated Through Projects
