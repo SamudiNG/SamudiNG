@@ -11,11 +11,11 @@
 <h3> Business Analyst | Business Intelligence | Supply Chain Analytics | Power BI | SQL | Excel</h3>
 
 <p>
-I am  Business Analyst with a strong interest in Business Intelligence, Data Analytics, and Supply Chain Analytics. I enjoy analyzing business data, identifying performance trends and transforming data into meaningful insights to support better business decisions.
+I am passionate about Business Analysis, Business Intelligence, Data Analytics and Supply Chain Analytics. I enjoy analyzing business data, identifying performance trends, and transforming data into meaningful insights to support informed business decisions.
 </p>
 
 <p>
-I am currently developing practical skills in Power BI, SQL, Excel, DAX, and business analysis through self-directed projects focused on sales, financial performance, inventory and supply chain analytics.
+I am currently developing practical skills in Power BI, SQL, Excel, DAX and business analysis through self-directed projects focused on sales, financial performance, inventory and supply chain analytics.
 </p>
 
 </td>
@@ -107,8 +107,7 @@ Through hands-on Power BI projects, I am developing practical skills in analyzin
 - Business Requirements Gathering & Documentation
 - Business Process Analysis
 - Data Storytelling & Insight Communication
-
-Supply Chain & Operations Analytics
+- Supply Chain & Operations Analytics
 ---
 
 ## 📫 Contact
