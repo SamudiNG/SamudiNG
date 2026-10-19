@@ -8,14 +8,14 @@
   <img src="https://komarev.com/ghpvc/?username=SamudiNG&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3>Supply Chain Management | Supply Chain Analytics | Power BI | SQL | Excel</h3>
+<h3> Business Analyst | Business Intelligence | Supply Chain Analytics | Power BI | SQL | Excel</h3>
 
 <p>
-I am interested in building my career in <b>Supply Chain Management</b>, with a particular interest in using data and analytics to support effective business and operational decision-making.
+I am  Business Analyst with a strong interest in Business Intelligence, Data Analytics, and Supply Chain Analytics. I enjoy analyzing business data, identifying performance trends and transforming data into meaningful insights to support better business decisions.
 </p>
 
 <p>
-I am currently developing practical skills in <b>Power BI, SQL, Excel, and Data Analytics</b> through self-directed projects.
+I am currently developing practical skills in Power BI, SQL, Excel, DAX, and business analysis through self-directed projects focused on sales, financial performance, inventory and supply chain analytics.
 </p>
 
 </td>
@@ -30,31 +30,36 @@ I am currently developing practical skills in <b>Power BI, SQL, Excel, and Data 
 
 ---
 
-## 🚚 Areas of Interest
 
-- Supply Chain Management
+## 🎯 Areas of Interest
+
+- Business Analysis
+- Business Intelligence & Data Analytics
+- Business Process Improvement
+- Sales & Financial Performance Analysis
 - Supply Chain Analytics
-- Inventory Management
-- Procurement & Purchasing
-- Logistics & Distribution
-- Warehouse Operations
-- Demand & Sales Analysis
-- Business Intelligence
+- Inventory & Stock Management
+- Logistics & Operations Analytics
+- Data-Driven Decision-Making
+
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skill
 
-- **Power BI**
-- **SQL**
-- **Microsoft Excel**
-- **Power Query**
-- **DAX**
+- Microsoft Power BI
+- Microsoft Excel
+- SQL 
+- Power Query
+- DAX Measures
 - Data Cleaning & Transformation
 - Data Modeling
-- KPI Development
-- Data Visualization
-- Business Intelligence
+- KPI Development & Performance Monitoring
+- Data Analysis & Visualization
+- Business Intelligence Reporting
+- Financial & Sales Data Analysis
+- Supply Chain & Inventory Analytics
+
 
 ---
 
@@ -71,37 +76,39 @@ I am currently developing practical skills in <b>Power BI, SQL, Excel, and Data 
 
 ## 💡 Skills Demonstrated Through Projects
 
-- Supply Chain Data Analysis
-- Inventory & Stock Analysis
-- Sales Performance Analysis
-- Warehouse Performance Analysis
-- Reorder & Stockout Monitoring
-- KPI Development
+- Business Performance Analysis
+- Sales & Financial Data Analysis
+- Supply Chain & Inventory Analysis
+- KPI Development & Performance Monitoring
 - Data Cleaning & Transformation
 - Data Modeling
 - DAX Measures
-- Interactive Dashboard Development
-- Business Data Visualization
+- Interactive Power BI Dashboard Development
+- Product, Customer Segment & Regional Analysis
+- Profitability & Cost Analysis
+- Data Visualization & Business Reporting
 
 ---
 
 ## 🎯 Career Focus
 
-I am currently building my knowledge and practical skills in **Supply Chain Management and Data Analytics**.
+I am an aspiring Business Analyst with a strong interest in Business Intelligence, Data Analytics and Supply Chain Analytics.
+I am seeking internship opportunities primarily in Business Analysis, while also being interested in Supply Chain Analytics and Operations Analysis.
+Through hands-on Power BI projects, I am developing practical skills in analyzing business data, monitoring KPIs, identifying performance trends and presenting insights to support data-driven decision-making.
 
-I am interested in starting my career in areas such as **Supply Chain, Logistics, Inventory Management, Procurement, Warehouse Operations, or Supply Chain Analytics**, where I can apply both my supply chain knowledge and analytical skills.
 
 ---
 
 ## 📚 Currently Developing
 
-- Advanced Excel for Supply Chain Analysis
-- SQL for Data Analysis
-- Power BI & DAX
-- Inventory and Supply Chain Analytics
-- Procurement and Logistics Knowledge
-- Data-Driven Decision Making
+- SQL for Business and Data Analysis
+- Advanced Microsoft Excel
+- Power BI & Advanced DAX
+- Business Requirements Gathering & Documentation
+- Business Process Analysis
+- Data Storytelling & Insight Communication
 
+Supply Chain & Operations Analytics
 ---
 
 ## 📫 Contact
@@ -110,7 +117,7 @@ I am interested in starting my career in areas such as **Supply Chain, Logistics
 
 ---
 
-⭐ Explore my repositories to view my **Power BI and data analytics projects**.
+⭐ Explore my GitHub repositories to discover Power BI projects showcasing my skills in Business Analysis, Business Intelligence, Financial Analysis and Supply Chain Analytics.
 
 
 
